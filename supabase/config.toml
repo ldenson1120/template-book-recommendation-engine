@@ -1,0 +1,7 @@
+project_id = "YOUR_PROJECT_REF"
+
+[functions.fetch-books]
+verify_jwt = false
+
+[functions.recommend]
+verify_jwt = false
